@@ -1,1 +1,1 @@
-t
+Mijn game speelt zich af in een wereld met maar 1 stad waar in je rond kan rijden in een ambulance. Er zijn twee mensen die rondlopen en verder niet al te veel doen. Er zijn huizen en een ziekenhuis waar je niet in kan. Veel speel plezier!
