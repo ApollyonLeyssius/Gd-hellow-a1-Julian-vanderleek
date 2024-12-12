@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: C:/Users/scept/gametest/Gd-hellow-a1-Julian-vanderleek/Assets/Scenes/SampleScene.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/save.unity
+    guid: 1d878175d8fc1344baad2a5b1004fc6b
   m_configObjects: {}
